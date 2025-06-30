@@ -107,4 +107,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if you'd like to upgrade it to support **GUI**, **email integration**, **AI chat**, or even **voice-based automation** using APIs like OpenAI, Google Assistant, etc.
