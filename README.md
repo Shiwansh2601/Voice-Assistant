@@ -1,7 +1,10 @@
 
-🗣️ Voice Assistant using Python
+
+# 🗣️ Voice Assistant using Python
 
 This is a simple **Voice Assistant** built with Python that can respond to your voice commands, answer questions, tell jokes, open websites, play music, and more. It uses **speech recognition** for understanding your voice and **text-to-speech** (TTS) to respond like a real assistant.
+
+---
 
 ## ✅ Features
 
@@ -105,5 +108,4 @@ pipwin install pyaudio
 
 This project is licensed under the MIT License.
 
----
 
